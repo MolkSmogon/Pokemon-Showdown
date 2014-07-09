@@ -1732,7 +1732,7 @@ exports.BattleFormatsData = {
 			{"generation":3,"level":10,"gender":"M","abilities":["sturdy"],"moves":["constrict","withdraw","wrap"]},
 			{"generation":3,"level":20,"abilities":["sturdy"],"moves":["substitute","toxic","sludgebomb","encore"]}
 		],
-		tier: "RU"
+		tier: "BL2"
 	},
 	heracross: {
 		viableMoves: {"closecombat":1,"megahorn":1,"stoneedge":1,"swordsdance":1,"knockoff":1,"earthquake":1},
